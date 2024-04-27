@@ -1,868 +1,868 @@
 {
-	"asset": {
-		"version": "2.0",
-		"generator": "Unity 2022.2.8f1 glTFast 5.0.0"
-	},
-	"nodes": [
-		{
-			"name": "Crate_Crate_0",
-			"mesh": 0
-		},
-		{
-			"name": "Crate",
-			"children": [
-				0
-			],
-			"translation": [
-				0,
-				129.721588,
-				-0.646340847
-			],
-			"rotation": [
-				0.7071068,
-				0,
-				0,
-				-0.707106769
-			],
-			"scale": [
-				100,
-				100,
-				100
-			]
-		},
-		{
-			"name": "Crate.001_Crate2_0",
-			"mesh": 1
-		},
-		{
-			"name": "Crate.001",
-			"children": [
-				2
-			],
-			"translation": [
-				3.0054853,
-				388.367645,
-				-4.868621
-			],
-			"rotation": [
-				0.7070977,
-				-0.00359185762,
-				-0.003591858,
-				-0.7070976
-			],
-			"scale": [
-				99.99999,
-				99.99999,
-				100
-			]
-		},
-		{
-			"name": "Crate.002_Crate3_0",
-			"mesh": 2
-		},
-		{
-			"name": "Crate.002",
-			"children": [
-				4
-			],
-			"translation": [
-				336.52832,
-				131.6173,
-				-24.9899368
-			],
-			"rotation": [
-				-0.7045409,
-				0.06018379,
-				0.06018379,
-				0.704540968
-			],
-			"scale": [
-				100,
-				100,
-				100
-			]
-		},
-		{
-			"name": "Crate.003_Crate4_0",
-			"mesh": 3
-		},
-		{
-			"name": "Crate.003",
-			"children": [
-				6
-			],
-			"translation": [
-				129.583435,
-				131.6173,
-				-469.186829
-			],
-			"rotation": [
-				0.482840866,
-				-0.5165895,
-				-0.516589761,
-				-0.482840657
-			],
-			"scale": [
-				100,
-				100,
-				100
-			]
-		},
-		{
-			"name": "RootNode",
-			"children": [
-				1,
-				3,
-				5,
-				7
-			]
-		},
-		{
-			"name": "6988086d7f5e4bb4844ac268561b0121.fbx",
-			"children": [
-				8
-			],
-			"rotation": [
-				0.7071068,
-				0,
-				0,
-				0.7071068
-			],
-			"scale": [
-				0.01,
-				0.01,
-				0.01
-			]
-		},
-		{
-			"name": "Sketchfab_model",
-			"children": [
-				9
-			],
-			"rotation": [
-				-0.7071068,
-				0,
-				0,
-				0.7071068
-			]
-		},
-		{
-			"name": "scene",
-			"children": [
-				10
-			]
-		}
-	],
-	"extensionsUsed": [
-		"KHR_materials_variants",
-		"KHR_visibility_variants"
-	],
-	"buffers": [
-		{
-			"uri": "Containers.bin",
-			"byteLength": 5184
-		}
-	],
-	"bufferViews": [
-		{
-			"buffer": 0,
-			"byteLength": 144
-		},
-		{
-			"buffer": 0,
-			"byteLength": 960,
-			"byteOffset": 144,
-			"byteStride": 40
-		},
-		{
-			"buffer": 0,
-			"byteLength": 192,
-			"byteOffset": 1104,
-			"byteStride": 8
-		},
-		{
-			"buffer": 0,
-			"byteLength": 144,
-			"byteOffset": 1296
-		},
-		{
-			"buffer": 0,
-			"byteLength": 960,
-			"byteOffset": 1440,
-			"byteStride": 40
-		},
-		{
-			"buffer": 0,
-			"byteLength": 192,
-			"byteOffset": 2400,
-			"byteStride": 8
-		},
-		{
-			"buffer": 0,
-			"byteLength": 144,
-			"byteOffset": 2592
-		},
-		{
-			"buffer": 0,
-			"byteLength": 960,
-			"byteOffset": 2736,
-			"byteStride": 40
-		},
-		{
-			"buffer": 0,
-			"byteLength": 192,
-			"byteOffset": 3696,
-			"byteStride": 8
-		},
-		{
-			"buffer": 0,
-			"byteLength": 144,
-			"byteOffset": 3888
-		},
-		{
-			"buffer": 0,
-			"byteLength": 960,
-			"byteOffset": 4032,
-			"byteStride": 40
-		},
-		{
-			"buffer": 0,
-			"byteLength": 192,
-			"byteOffset": 4992,
-			"byteStride": 8
-		}
-	],
-	"accessors": [
-		{
-			"bufferView": 1,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC3",
-			"max": [
-				1.21511126,
-				3.0081327,
-				1.29321122
-			],
-			"min": [
-				-1.21511126,
-				-3.0081327,
-				-1.29321122
-			]
-		},
-		{
-			"bufferView": 1,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC3",
-			"byteOffset": 12
-		},
-		{
-			"bufferView": 1,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC4",
-			"byteOffset": 24
-		},
-		{
-			"bufferView": 2,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC2"
-		},
-		{
-			"bufferView": 0,
-			"componentType": 5125,
-			"count": 36,
-			"type": "SCALAR"
-		},
-		{
-			"bufferView": 4,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC3",
-			"max": [
-				1.21511126,
-				3.0081327,
-				1.29321122
-			],
-			"min": [
-				-1.21511126,
-				-3.0081327,
-				-1.29321122
-			]
-		},
-		{
-			"bufferView": 4,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC3",
-			"byteOffset": 12
-		},
-		{
-			"bufferView": 4,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC4",
-			"byteOffset": 24
-		},
-		{
-			"bufferView": 5,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC2"
-		},
-		{
-			"bufferView": 3,
-			"componentType": 5125,
-			"count": 36,
-			"type": "SCALAR"
-		},
-		{
-			"bufferView": 7,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC3",
-			"max": [
-				1.21511126,
-				3.0081327,
-				1.29321122
-			],
-			"min": [
-				-1.21511126,
-				-3.0081327,
-				-1.29321122
-			]
-		},
-		{
-			"bufferView": 7,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC3",
-			"byteOffset": 12
-		},
-		{
-			"bufferView": 7,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC4",
-			"byteOffset": 24
-		},
-		{
-			"bufferView": 8,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC2"
-		},
-		{
-			"bufferView": 6,
-			"componentType": 5125,
-			"count": 36,
-			"type": "SCALAR"
-		},
-		{
-			"bufferView": 10,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC3",
-			"max": [
-				1.21511126,
-				3.0081327,
-				1.29321122
-			],
-			"min": [
-				-1.21511126,
-				-3.0081327,
-				-1.29321122
-			]
-		},
-		{
-			"bufferView": 10,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC3",
-			"byteOffset": 12
-		},
-		{
-			"bufferView": 10,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC4",
-			"byteOffset": 24
-		},
-		{
-			"bufferView": 11,
-			"componentType": 5126,
-			"count": 24,
-			"type": "VEC2"
-		},
-		{
-			"bufferView": 9,
-			"componentType": 5125,
-			"count": 36,
-			"type": "SCALAR"
-		}
-	],
-	"images": [
-		{
-			"name": "Crate_normal.jpg",
-			"uri": "Crate_normal.jpg",
-			"mimeType": "image/jpeg"
-		},
-		{
-			"name": "Crate_baseColor.jpg",
-			"uri": "Crate_baseColor.jpg",
-			"mimeType": "image/jpeg"
-		},
-		{
-			"name": "Crate2_normal.jpg",
-			"uri": "Crate2_normal.jpg",
-			"mimeType": "image/jpeg"
-		},
-		{
-			"name": "Crate2_baseColor.jpg",
-			"uri": "Crate2_baseColor.jpg",
-			"mimeType": "image/jpeg"
-		},
-		{
-			"name": "Crate3_normal.jpg",
-			"uri": "Crate3_normal.jpg",
-			"mimeType": "image/jpeg"
-		},
-		{
-			"name": "Crate3_baseColor.jpg",
-			"uri": "Crate3_baseColor.jpg",
-			"mimeType": "image/jpeg"
-		},
-		{
-			"name": "Crate4_normal.jpg",
-			"uri": "Crate4_normal.jpg",
-			"mimeType": "image/jpeg"
-		},
-		{
-			"name": "Crate4_baseColor.jpg",
-			"uri": "Crate4_baseColor.jpg",
-			"mimeType": "image/jpeg"
-		}
-	],
-	"materials": [
-		{
-			"name": "Crate",
-			"pbrMetallicRoughness": {
-				"metallicFactor": 0,
-				"baseColorTexture": {
-					"index": 1
-				}
-			},
-			"normalTexture": {
-				"index": 0
-			}
-		},
-		{
-			"name": "Crate2",
-			"pbrMetallicRoughness": {
-				"metallicFactor": 0,
-				"baseColorTexture": {
-					"index": 3
-				}
-			},
-			"normalTexture": {
-				"index": 2
-			}
-		},
-		{
-			"name": "Crate3",
-			"pbrMetallicRoughness": {
-				"metallicFactor": 0,
-				"baseColorTexture": {
-					"index": 5
-				}
-			},
-			"normalTexture": {
-				"index": 4
-			}
-		},
-		{
-			"name": "Crate4",
-			"pbrMetallicRoughness": {
-				"metallicFactor": 0,
-				"baseColorTexture": {
-					"index": 7
-				}
-			},
-			"normalTexture": {
-				"index": 6
-			}
-		}
-	],
-	"meshes": [
-		{
-			"name": "Crate_Crate_0",
-			"primitives": [
-				{
-					"attributes": {
-						"POSITION": 0,
-						"NORMAL": 1,
-						"TANGENT": 2,
-						"TEXCOORD_0": 3
-					},
-					"indices": 4,
-					"material": 3,
-					"extensions": {
-						"KHR_materials_variants": {
-							"mappings": [
-								{
-									"material": 0,
-									"variants": [
-										0,
-										4
-									]
-								},
-								{
-									"material": 1,
-									"variants": [
-										1,
-										5
-									]
-								},
-								{
-									"material": 2,
-									"variants": [
-										2,
-										6
-									]
-								},
-								{
-									"material": 3,
-									"variants": [
-										3,
-										7
-									]
-								}
-							]
-						},
-						"KHR_visibility_variants": {
-							"mappings": [
-								{
-									"visibility": 1,
-									"variants": [
-										0,
-										4
-									]
-								},
-								{
-									"visibility": 0,
-									"variants": [
-										1,
-										2,
-										3
-									]
-								}
-							]
-						}
-					}
-				}
-			]
-		},
-		{
-			"name": "Crate.001_Crate2_0",
-			"primitives": [
-				{
-					"attributes": {
-						"POSITION": 5,
-						"NORMAL": 6,
-						"TANGENT": 7,
-						"TEXCOORD_0": 8
-					},
-					"indices": 9,
-					"material": 3,
-					"extensions": {
-						"KHR_materials_variants": {
-							"mappings": [
-								{
-									"material": 0,
-									"variants": [
-										0,
-										7
-									]
-								},
-								{
-									"material": 1,
-									"variants": [
-										1,
-										4
-									]
-								},
-								{
-									"material": 2,
-									"variants": [
-										2,
-										5
-									]
-								},
-								{
-									"material": 3,
-									"variants": [
-										3,
-										6
-									]
-								}
-							]
-						},
-						"KHR_visibility_variants": {
-							"mappings": [
-								{
-									"visibility": 0,
-									"variants": [
-										0,
-										2,
-										3
-									]
-								},
-								{
-									"visibility": 1,
-									"variants": [
-										1,
-										4
-									]
-								}
-							]
-						}
-					}
-				}
-			]
-		},
-		{
-			"name": "Crate.002_Crate3_0",
-			"primitives": [
-				{
-					"attributes": {
-						"POSITION": 10,
-						"NORMAL": 11,
-						"TANGENT": 12,
-						"TEXCOORD_0": 13
-					},
-					"indices": 14,
-					"material": 3,
-					"extensions": {
-						"KHR_materials_variants": {
-							"mappings": [
-								{
-									"material": 0,
-									"variants": [
-										0,
-										6
-									]
-								},
-								{
-									"material": 1,
-									"variants": [
-										1,
-										7
-									]
-								},
-								{
-									"material": 2,
-									"variants": [
-										2,
-										4
-									]
-								},
-								{
-									"material": 3,
-									"variants": [
-										3,
-										5
-									]
-								}
-							]
-						},
-						"KHR_visibility_variants": {
-							"mappings": [
-								{
-									"visibility": 0,
-									"variants": [
-										0,
-										1,
-										3
-									]
-								},
-								{
-									"visibility": 1,
-									"variants": [
-										2,
-										4
-									]
-								}
-							]
-						}
-					}
-				}
-			]
-		},
-		{
-			"name": "Crate.003_Crate4_0",
-			"primitives": [
-				{
-					"attributes": {
-						"POSITION": 15,
-						"NORMAL": 16,
-						"TANGENT": 17,
-						"TEXCOORD_0": 18
-					},
-					"indices": 19,
-					"material": 3,
-					"extensions": {
-						"KHR_materials_variants": {
-							"mappings": [
-								{
-									"material": 0,
-									"variants": [
-										0,
-										5
-									]
-								},
-								{
-									"material": 1,
-									"variants": [
-										1,
-										6
-									]
-								},
-								{
-									"material": 2,
-									"variants": [
-										2,
-										7
-									]
-								},
-								{
-									"material": 3,
-									"variants": [
-										3,
-										4
-									]
-								}
-							]
-						},
-						"KHR_visibility_variants": {
-							"mappings": [
-								{
-									"visibility": 0,
-									"variants": [
-										0,
-										1,
-										2
-									]
-								},
-								{
-									"visibility": 1,
-									"variants": [
-										3,
-										4
-									]
-								}
-							]
-						}
-					}
-				}
-			]
-		}
-	],
-	"samplers": [
-		{
-			"minFilter": 9987
-		}
-	],
-	"scene": 0,
-	"scenes": [
-		{
-			"name": "scene",
-			"nodes": [
-				11
-			]
-		}
-	],
-	"textures": [
-		{
-			"source": 0,
-			"sampler": 0
-		},
-		{
-			"source": 1,
-			"sampler": 0
-		},
-		{
-			"source": 2,
-			"sampler": 0
-		},
-		{
-			"source": 3,
-			"sampler": 0
-		},
-		{
-			"source": 4,
-			"sampler": 0
-		},
-		{
-			"source": 5,
-			"sampler": 0
-		},
-		{
-			"source": 6,
-			"sampler": 0
-		},
-		{
-			"source": 7,
-			"sampler": 0
-		}
-	],
-	"extensions": {
-		"KHR_materials_variants": {
-			"variants": [
-				{
-					"name": "Green"
-				},
-				{
-					"name": "White"
-				},
-				{
-					"name": "Red"
-				},
-				{
-					"name": "Blue"
-				},
-				{
-					"name": "Combo1"
-				},
-				{
-					"name": "Combo2"
-				},
-				{
-					"name": "Combo3"
-				},
-				{
-					"name": "Combo4"
-				}
-			]
-		},
-		"KHR_visibility_variants": {
-			"variants": [
-				{
-					"name": "Crate_Crate_0 Visibility"
-				},
-				{
-					"name": "Crate.001_Crate2_0 Visibility"
-				},
-				{
-					"name": "Crate.002_Crate3_0 Visibility"
-				},
-				{
-					"name": "Crate.003_Crate4_0 Visibility"
-				},
-				{
-					"name": "Crate_Crate_0_all Visibility"
-				}
-			]
-		}
-	}
+    "asset": {
+        "version": "2.0",
+        "generator": "Unity 2022.2.8f1 glTFast 5.0.0"
+    },
+    "nodes": [
+        {
+            "name": "Crate_Crate_0",
+            "mesh": 0
+        },
+        {
+            "name": "Crate",
+            "children": [
+                0
+            ],
+            "translation": [
+                0,
+                129.721588,
+                -0.646340847
+            ],
+            "rotation": [
+                0.7071068,
+                0,
+                0,
+                -0.707106769
+            ],
+            "scale": [
+                100,
+                100,
+                100
+            ]
+        },
+        {
+            "name": "Crate.001_Crate2_0",
+            "mesh": 1
+        },
+        {
+            "name": "Crate.001",
+            "children": [
+                2
+            ],
+            "translation": [
+                3.0054853,
+                388.367645,
+                -4.868621
+            ],
+            "rotation": [
+                0.7070977,
+                -0.00359185762,
+                -0.003591858,
+                -0.7070976
+            ],
+            "scale": [
+                99.99999,
+                99.99999,
+                100
+            ]
+        },
+        {
+            "name": "Crate.002_Crate3_0",
+            "mesh": 2
+        },
+        {
+            "name": "Crate.002",
+            "children": [
+                4
+            ],
+            "translation": [
+                336.52832,
+                131.6173,
+                -24.9899368
+            ],
+            "rotation": [
+                -0.7045409,
+                0.06018379,
+                0.06018379,
+                0.704540968
+            ],
+            "scale": [
+                100,
+                100,
+                100
+            ]
+        },
+        {
+            "name": "Crate.003_Crate4_0",
+            "mesh": 3
+        },
+        {
+            "name": "Crate.003",
+            "children": [
+                6
+            ],
+            "translation": [
+                129.583435,
+                131.6173,
+                -469.186829
+            ],
+            "rotation": [
+                0.482840866,
+                -0.5165895,
+                -0.516589761,
+                -0.482840657
+            ],
+            "scale": [
+                100,
+                100,
+                100
+            ]
+        },
+        {
+            "name": "RootNode",
+            "children": [
+                1,
+                3,
+                5,
+                7
+            ]
+        },
+        {
+            "name": "6988086d7f5e4bb4844ac268561b0121.fbx",
+            "children": [
+                8
+            ],
+            "rotation": [
+                0.7071068,
+                0,
+                0,
+                0.7071068
+            ],
+            "scale": [
+                0.01,
+                0.01,
+                0.01
+            ]
+        },
+        {
+            "name": "Sketchfab_model",
+            "children": [
+                9
+            ],
+            "rotation": [
+                -0.7071068,
+                0,
+                0,
+                0.7071068
+            ]
+        },
+        {
+            "name": "scene",
+            "children": [
+                10
+            ]
+        }
+    ],
+    "extensionsUsed": [
+        "KHR_materials_variants",
+        "KHR_visibility_variants"
+    ],
+    "buffers": [
+        {
+            "uri": "Containers.bin",
+            "byteLength": 5184
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 144
+        },
+        {
+            "buffer": 0,
+            "byteLength": 960,
+            "byteOffset": 144,
+            "byteStride": 40
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 1104,
+            "byteStride": 8
+        },
+        {
+            "buffer": 0,
+            "byteLength": 144,
+            "byteOffset": 1296
+        },
+        {
+            "buffer": 0,
+            "byteLength": 960,
+            "byteOffset": 1440,
+            "byteStride": 40
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 2400,
+            "byteStride": 8
+        },
+        {
+            "buffer": 0,
+            "byteLength": 144,
+            "byteOffset": 2592
+        },
+        {
+            "buffer": 0,
+            "byteLength": 960,
+            "byteOffset": 2736,
+            "byteStride": 40
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 3696,
+            "byteStride": 8
+        },
+        {
+            "buffer": 0,
+            "byteLength": 144,
+            "byteOffset": 3888
+        },
+        {
+            "buffer": 0,
+            "byteLength": 960,
+            "byteOffset": 4032,
+            "byteStride": 40
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 4992,
+            "byteStride": 8
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "max": [
+                1.21511126,
+                3.0081327,
+                1.29321122
+            ],
+            "min": [
+                -1.21511126,
+                -3.0081327,
+                -1.29321122
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "byteOffset": 12
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4",
+            "byteOffset": 24
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5125,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "max": [
+                1.21511126,
+                3.0081327,
+                1.29321122
+            ],
+            "min": [
+                -1.21511126,
+                -3.0081327,
+                -1.29321122
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "byteOffset": 12
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4",
+            "byteOffset": 24
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "max": [
+                1.21511126,
+                3.0081327,
+                1.29321122
+            ],
+            "min": [
+                -1.21511126,
+                -3.0081327,
+                -1.29321122
+            ]
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "byteOffset": 12
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4",
+            "byteOffset": 24
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5125,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "max": [
+                1.21511126,
+                3.0081327,
+                1.29321122
+            ],
+            "min": [
+                -1.21511126,
+                -3.0081327,
+                -1.29321122
+            ]
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "byteOffset": 12
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC4",
+            "byteOffset": 24
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5125,
+            "count": 36,
+            "type": "SCALAR"
+        }
+    ],
+    "images": [
+        {
+            "name": "Crate_normal.jpg",
+            "uri": "Crate_normal.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "Crate_baseColor.jpg",
+            "uri": "Crate_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "Crate2_normal.jpg",
+            "uri": "Crate2_normal.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "Crate2_baseColor.jpg",
+            "uri": "Crate2_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "Crate3_normal.jpg",
+            "uri": "Crate3_normal.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "Crate3_baseColor.jpg",
+            "uri": "Crate3_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "Crate4_normal.jpg",
+            "uri": "Crate4_normal.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "Crate4_baseColor.jpg",
+            "uri": "Crate4_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        }
+    ],
+    "materials": [
+        {
+            "name": "Crate",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0,
+                "baseColorTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 0
+            }
+        },
+        {
+            "name": "Crate2",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0,
+                "baseColorTexture": {
+                    "index": 3
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            }
+        },
+        {
+            "name": "Crate3",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0,
+                "baseColorTexture": {
+                    "index": 5
+                }
+            },
+            "normalTexture": {
+                "index": 4
+            }
+        },
+        {
+            "name": "Crate4",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0,
+                "baseColorTexture": {
+                    "index": 7
+                }
+            },
+            "normalTexture": {
+                "index": 6
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Crate_Crate_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TANGENT": 2,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 4,
+                    "material": 3,
+                    "extensions": {
+                        "KHR_materials_variants": {
+                            "mappings": [
+                                {
+                                    "material": 0,
+                                    "variants": [
+                                        0,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "material": 1,
+                                    "variants": [
+                                        1,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "material": 2,
+                                    "variants": [
+                                        2,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "material": 3,
+                                    "variants": [
+                                        3,
+                                        7
+                                    ]
+                                }
+                            ]
+                        },
+                        "KHR_visibility_variants": {
+                            "mappings": [
+                                {
+                                    "visibility": 1,
+                                    "variants": [
+                                        0,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "visibility": 0,
+                                    "variants": [
+                                        1,
+                                        2,
+                                        3
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Crate.001_Crate2_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 5,
+                        "NORMAL": 6,
+                        "TANGENT": 7,
+                        "TEXCOORD_0": 8
+                    },
+                    "indices": 9,
+                    "material": 3,
+                    "extensions": {
+                        "KHR_materials_variants": {
+                            "mappings": [
+                                {
+                                    "material": 0,
+                                    "variants": [
+                                        0,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "material": 1,
+                                    "variants": [
+                                        1,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "material": 2,
+                                    "variants": [
+                                        2,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "material": 3,
+                                    "variants": [
+                                        3,
+                                        6
+                                    ]
+                                }
+                            ]
+                        },
+                        "KHR_visibility_variants": {
+                            "mappings": [
+                                {
+                                    "visibility": 0,
+                                    "variants": [
+                                        0,
+                                        2,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "visibility": 1,
+                                    "variants": [
+                                        1,
+                                        4
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Crate.002_Crate3_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 10,
+                        "NORMAL": 11,
+                        "TANGENT": 12,
+                        "TEXCOORD_0": 13
+                    },
+                    "indices": 14,
+                    "material": 3,
+                    "extensions": {
+                        "KHR_materials_variants": {
+                            "mappings": [
+                                {
+                                    "material": 0,
+                                    "variants": [
+                                        0,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "material": 1,
+                                    "variants": [
+                                        1,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "material": 2,
+                                    "variants": [
+                                        2,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "material": 3,
+                                    "variants": [
+                                        3,
+                                        5
+                                    ]
+                                }
+                            ]
+                        },
+                        "KHR_visibility_variants": {
+                            "mappings": [
+                                {
+                                    "visibility": 0,
+                                    "variants": [
+                                        0,
+                                        1,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "visibility": 1,
+                                    "variants": [
+                                        2,
+                                        4
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Crate.003_Crate4_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 15,
+                        "NORMAL": 16,
+                        "TANGENT": 17,
+                        "TEXCOORD_0": 18
+                    },
+                    "indices": 19,
+                    "material": 3,
+                    "extensions": {
+                        "KHR_materials_variants": {
+                            "mappings": [
+                                {
+                                    "material": 0,
+                                    "variants": [
+                                        0,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "material": 1,
+                                    "variants": [
+                                        1,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "material": 2,
+                                    "variants": [
+                                        2,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "material": 3,
+                                    "variants": [
+                                        3,
+                                        4
+                                    ]
+                                }
+                            ]
+                        },
+                        "KHR_visibility_variants": {
+                            "mappings": [
+                                {
+                                    "visibility": 0,
+                                    "variants": [
+                                        0,
+                                        1,
+                                        2
+                                    ]
+                                },
+                                {
+                                    "visibility": 1,
+                                    "variants": [
+                                        3,
+                                        4
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "samplers": [
+        {
+            "minFilter": 9987
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "name": "scene",
+            "nodes": [
+                11
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "source": 0,
+            "sampler": 0
+        },
+        {
+            "source": 1,
+            "sampler": 0
+        },
+        {
+            "source": 2,
+            "sampler": 0
+        },
+        {
+            "source": 3,
+            "sampler": 0
+        },
+        {
+            "source": 4,
+            "sampler": 0
+        },
+        {
+            "source": 5,
+            "sampler": 0
+        },
+        {
+            "source": 6,
+            "sampler": 0
+        },
+        {
+            "source": 7,
+            "sampler": 0
+        }
+    ],
+    "extensions": {
+        "KHR_materials_variants": {
+            "variants": [
+                {
+                    "name": "Green"
+                },
+                {
+                    "name": "White"
+                },
+                {
+                    "name": "Red"
+                },
+                {
+                    "name": "Blue"
+                },
+                {
+                    "name": "Combo1"
+                },
+                {
+                    "name": "Combo2"
+                },
+                {
+                    "name": "Combo3"
+                },
+                {
+                    "name": "Combo4"
+                }
+            ]
+        },
+        "KHR_visibility_variants": {
+            "variants": [
+                {
+                    "name": "Crate_Crate_0 Visibility"
+                },
+                {
+                    "name": "Crate.001_Crate2_0 Visibility"
+                },
+                {
+                    "name": "Crate.002_Crate3_0 Visibility"
+                },
+                {
+                    "name": "Crate.003_Crate4_0 Visibility"
+                },
+                {
+                    "name": "Crate_Crate_0_all Visibility"
+                }
+            ]
+        }
+    }
 }
