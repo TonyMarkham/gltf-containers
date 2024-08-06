@@ -1,0 +1,1294 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 15960,
+      "max": [
+        0.131586075,
+        0.136975378,
+        0.0419938825
+      ],
+      "min": [
+        -0.131586075,
+        -0.166072458,
+        0.0135513395
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 15960,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 15960,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 15960,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 8,
+      "componentType": 5126,
+      "count": 15960,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 22848,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 77875,
+      "max": [
+        0.132119983,
+        0.170158684,
+        0.0493727624
+      ],
+      "min": [
+        -0.132119983,
+        -0.166667759,
+        -0.0791937
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 77875,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 77875,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "normalized": true,
+      "count": 77875,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 77875,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 9,
+      "byteOffset": 8,
+      "componentType": 5126,
+      "count": 77875,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 320271,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 4586,
+      "max": [
+        0.09063217,
+        -0.08960314,
+        0.0378053449
+      ],
+      "min": [
+        -0.09063214,
+        -0.130867526,
+        0.023636017
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 4586,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 4586,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 4586,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 8,
+      "componentType": 5126,
+      "count": 4586,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5125,
+      "count": 17616,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "Unity 2022.3.36f1 glTFast 6.7.0",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "byteLength": 8200516,
+      "uri": "nolan.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 91392
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 91392,
+      "byteLength": 1281084
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1372476,
+      "byteLength": 70464
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1442940,
+      "byteLength": 638400,
+      "byteStride": 40
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2081340,
+      "byteLength": 255360,
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2336700,
+      "byteLength": 183440,
+      "byteStride": 40
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2520140,
+      "byteLength": 73376,
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2593516,
+      "byteLength": 3115000,
+      "byteStride": 40
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5708516,
+      "byteLength": 1246000,
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6954516,
+      "byteLength": 1246000,
+      "byteStride": 16
+    }
+  ],
+  "images": [
+    {
+      "uri": "Noise_tex_shifted.png",
+      "mimeType": "image/png",
+      "name": "Noise_tex_shifted.png"
+    },
+    {
+      "uri": "Jewelry_Col1_ModelA_Main_Occlusion.png",
+      "mimeType": "image/png",
+      "name": "Jewelry_Col1_ModelA_Main_Occlusion.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "earrings_01.png",
+      "mimeType": "image/png",
+      "name": "earrings_01.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "link.png",
+      "mimeType": "image/png",
+      "name": "link.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "gold-pack.png",
+      "mimeType": "image/png",
+      "name": "gold-pack.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "silver-pack.png",
+      "mimeType": "image/png",
+      "name": "silver-pack.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "broken-link.png",
+      "mimeType": "image/png",
+      "name": "broken-link.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "gem_03.png",
+      "mimeType": "image/png",
+      "name": "gem_03.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "gem_01.png",
+      "mimeType": "image/png",
+      "name": "gem_01.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "gem_02.png",
+      "mimeType": "image/png",
+      "name": "gem_02.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "camera_01.png",
+      "mimeType": "image/png",
+      "name": "camera_01.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "frame_earring_01.png",
+      "mimeType": "image/png",
+      "name": "frame_earring_01.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "frame_pendant.png",
+      "mimeType": "image/png",
+      "name": "frame_pendant.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "metal.png",
+      "mimeType": "image/png",
+      "name": "metal.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "gold-element.png",
+      "mimeType": "image/png",
+      "name": "gold-element.png"
+    },
+    {
+      "extras": {
+        "isThumbnail": true
+      },
+      "uri": "silver-element.png",
+      "mimeType": "image/png",
+      "name": "silver-element.png"
+    }
+  ],
+  "materials": [
+    {
+      "extensions": {
+        "diamondShaderExtension": {
+          "transparency": 0.7,
+          "caustic": {
+            "index": 0
+          },
+          "parallaxAmplitude": 50.0,
+          "steps": 5.0,
+          "diamondEmissionHdrColor": [
+            1.12352943,
+            1.34823525,
+            1.49803925,
+            0.0
+          ],
+          "diamondColor": [
+            0.3499999,
+            0.3499999,
+            0.3499999,
+            1.0
+          ],
+          "metallic": 0.8,
+          "smoothness": 0.0,
+          "ambientOcclusion": 0.8
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "alphaCutoff": 0.5,
+      "name": "Jewelry_Col1_ModelA_Diamond",
+      "alphaMode": "OPAQUE",
+      "extras": {
+        "shaderName": "Shader Graphs/DiamondShader"
+      }
+    },
+    {
+      "occlusionTexture": {
+        "strength": 0.9,
+        "index": 1,
+        "texCoord": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.976895034,
+          0.9075147,
+          1.0
+        ],
+        "metallicFactor": 1.0,
+        "roughnessFactor": 0.075
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Jewelry_Col1_ModelA_Gold",
+      "alphaMode": "OPAQUE",
+      "extras": {
+        "shaderName": "Shader Graphs/glTF-pbrMetallicRoughness"
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.990128934,
+          0.9672125,
+          0.898392558,
+          1.0
+        ],
+        "metallicFactor": 1.0,
+        "roughnessFactor": 0.075
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Jewelry_Col1_ModelA_Gold_Dark",
+      "alphaMode": "OPAQUE",
+      "extras": {
+        "shaderName": "Shader Graphs/glTF-pbrMetallicRoughness"
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9977153,
+          0.9961794,
+          0.992294252,
+          1.0
+        ],
+        "metallicFactor": 1.0,
+        "roughnessFactor": 0.075
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Jewelry_Col1_ModelA_Silver",
+      "alphaMode": "OPAQUE",
+      "extras": {
+        "shaderName": "Shader Graphs/glTF-pbrMetallicRoughness"
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9977153,
+          0.9961794,
+          0.992294252,
+          1.0
+        ],
+        "metallicFactor": 1.0,
+        "roughnessFactor": 0.075
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Jewelry_Col1_ModelA_Silver_Dark",
+      "alphaMode": "OPAQUE",
+      "extras": {
+        "shaderName": "Shader Graphs/glTF-pbrMetallicRoughness"
+      }
+    },
+    {
+      "extensions": {
+        "diamondShaderExtension": {
+          "transparency": 0.7,
+          "caustic": {
+            "index": 0
+          },
+          "parallaxAmplitude": 40.0,
+          "steps": 2.0,
+          "diamondEmissionHdrColor": [
+            3.32985735,
+            0.108199663,
+            0.150379285,
+            1.0
+          ],
+          "diamondColor": [
+            0.498038948,
+            0.0,
+            0.0509803444,
+            1.0
+          ],
+          "metallic": 0.6,
+          "smoothness": 0.0,
+          "ambientOcclusion": 0.1
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "alphaCutoff": 0.5,
+      "name": "Jewelry_Col1_ModelA_Ruby",
+      "alphaMode": "OPAQUE",
+      "extras": {
+        "shaderName": "Shader Graphs/DiamondShader"
+      }
+    },
+    {
+      "extensions": {
+        "diamondShaderExtension": {
+          "transparency": 0.7,
+          "caustic": {
+            "index": 0
+          },
+          "parallaxAmplitude": 40.0,
+          "steps": 2.0,
+          "diamondEmissionHdrColor": [
+            0.121843681,
+            0.365531057,
+            1.79016483,
+            1.0
+          ],
+          "diamondColor": [
+            0.0,
+            0.2463688,
+            1.0,
+            1.0
+          ],
+          "metallic": 0.0,
+          "smoothness": 0.0,
+          "ambientOcclusion": 0.1
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "alphaCutoff": 0.5,
+      "name": "Jewelry_Col1_ModelA_Sapphire",
+      "alphaMode": "OPAQUE",
+      "extras": {
+        "shaderName": "Shader Graphs/DiamondShader"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Jewelry_Col1_ModelA_Stones",
+      "mesh": 0,
+      "extras": {
+        "nodePath": "Jewelry_Col1_ModelA_Prefab/Jewelry_Col1_ModelA/Jewelry_Col1_ModelA_Stones"
+      }
+    },
+    {
+      "name": "Jewelry_Col1_ModelA_Main",
+      "mesh": 1,
+      "extras": {
+        "nodePath": "Jewelry_Col1_ModelA_Prefab/Jewelry_Col1_ModelA/Jewelry_Col1_ModelA_Main"
+      }
+    },
+    {
+      "name": "Jewelry_Col1_ModelA_Ring",
+      "mesh": 2,
+      "extras": {
+        "nodePath": "Jewelry_Col1_ModelA_Prefab/Jewelry_Col1_ModelA/Jewelry_Col1_ModelA_Ring"
+      }
+    },
+    {
+      "name": "Jewelry_Col1_ModelA",
+      "children": [
+        0,
+        1,
+        2
+      ],
+      "extras": {
+        "nodePath": "Jewelry_Col1_ModelA_Prefab/Jewelry_Col1_ModelA"
+      }
+    },
+    {
+      "name": "Jewelry_Col1_ModelA_Prefab",
+      "children": [
+        3
+      ],
+      "extras": {
+        "nodePath": "Jewelry_Col1_ModelA_Prefab"
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        4
+      ],
+      "name": ""
+    }
+  ],
+  "textures": [
+    {
+      "source": 0
+    },
+    {
+      "source": 1
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ],
+      "name": "Jewelry_Col1_ModelA_Stones"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TANGENT": 8,
+            "TEXCOORD_0": 10,
+            "TEXCOORD_1": 11,
+            "COLOR_0": 9
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ],
+      "name": "Jewelry_Col1_ModelA_Main"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TANGENT": 15,
+            "TEXCOORD_0": 16,
+            "TEXCOORD_1": 17
+          },
+          "indices": 18,
+          "material": 2,
+          "mode": 4
+        }
+      ],
+      "name": "Jewelry_Col1_ModelA_Ring"
+    }
+  ],
+  "scene": 0,
+  "extensions": {
+    "UNITY_Configurator": {
+      "variantTable": {
+        "visibilityVariantSets": [],
+        "materialVariantSets": [
+          {
+            "id": "57956587-b088-406c-ba69-0165cbac9bfb",
+            "name": "MainColor",
+            "code": "mainColor",
+            "variants": [
+              {
+                "id": "7c222f79-8523-4320-a4c2-07a7fd847502",
+                "name": "Gold",
+                "code": "FFF9E7",
+                "material": 1
+              },
+              {
+                "id": "8fc71478-6ca1-4085-843c-44c677f75683",
+                "name": "Silver",
+                "code": "FEFEFD",
+                "material": 3
+              }
+            ],
+            "materialSlots": [
+              {
+                "node": -1,
+                "mesh": 1,
+                "subMeshIndex": 0
+              }
+            ]
+          },
+          {
+            "id": "9c9623d1-cfff-4cb6-bf02-82530b168abf",
+            "name": "RingColor",
+            "code": "ringColor",
+            "variants": [
+              {
+                "id": "d7439051-eba4-4a16-9c6c-3dc08b2c64aa",
+                "name": "Dark Gold",
+                "code": "FCF7E5",
+                "material": 2
+              },
+              {
+                "id": "08728c9f-c8eb-47ab-89de-d8eefb658f37",
+                "name": "Dark Silver",
+                "code": "FEFEFD",
+                "material": 4
+              }
+            ],
+            "materialSlots": [
+              {
+                "node": -1,
+                "mesh": 2,
+                "subMeshIndex": 0
+              }
+            ]
+          },
+          {
+            "id": "44cad13e-9585-4984-8b47-9e85fe1127dd",
+            "name": "StonesColor",
+            "code": "stonesColor",
+            "variants": [
+              {
+                "id": "73fd8352-fd95-414c-b2c4-987b9248225e",
+                "name": "Diamond",
+                "code": "ffffff",
+                "material": 0
+              },
+              {
+                "id": "4fbe731b-28a0-46be-9851-56369162658d",
+                "name": "Ruby",
+                "code": "ff0000",
+                "material": 5
+              },
+              {
+                "id": "5dfc197a-3b8a-424d-b79f-c335a66572aa",
+                "name": "Sapphire",
+                "code": "0000ff",
+                "material": 6
+              }
+            ],
+            "materialSlots": [
+              {
+                "node": -1,
+                "mesh": 0,
+                "subMeshIndex": 0
+              }
+            ]
+          }
+        ],
+        "transformVariantSets": [],
+        "cinemachineFreeLookVariantSets": [
+          {
+            "id": "434536c0-26de-4f6d-a6cf-6724304f177a",
+            "name": "Cameras",
+            "code": "cameras",
+            "variants": [
+              {
+                "id": "c248aaa7-e83f-40c1-b485-2dc12321f53e",
+                "name": "Detail Camera",
+                "code": "detailCamera",
+                "followNode": 2,
+                "followNodeOffset": [
+                  0.071,
+                  -0.111,
+                  0
+                ],
+                "lookAtNode": 2,
+                "lookAtNodeOffset": [
+                  0.071,
+                  -0.111,
+                  0
+                ],
+                "cameraLensFov": 40,
+                "cameraLensNearClipPlane": 0.01,
+                "cameraLensFarClipPlane": 250,
+                "yAxisControlValue": 0.5,
+                "yAxisControlSpeed": 0.75,
+                "yAxisControlSpeedModifier": 0,
+                "yAxisControlAccelTime": 0.2,
+                "yAxisControlDecelTime": 0.1,
+                "yAxisControlInputAxisName": "Mouse X",
+                "yAxisControlInputAxisValue": 0,
+                "yAxisControlInputAxisInvert": true,
+                "xAxisControlValue": 180,
+                "xAxisControlSpeed": 125,
+                "xAxisControlSpeedModifier": 0,
+                "xAxisControlAccelTime": 0.1,
+                "xAxisControlDecelTime": 0.1,
+                "xAxisControlInputAxisName": "Mouse Y",
+                "xAxisControlInputAxisValue": 0,
+                "xAxisControlInputAxisInvert": false,
+                "orbitSplineCurvature": 1,
+                "topRigHeight": 0.25,
+                "topRigRadius": 0.01,
+                "middleRigHeight": 0,
+                "middleRigRadius": 0.25,
+                "bottomRigHeight": -0.25,
+                "bottomRigRadius": 0.01,
+                "zoomSpeed": 0.1,
+                "zoomAccel": 0.75,
+                "zoomMinRadius": 0.15,
+                "zoomMaxRadius": 0.5,
+                "zoomLerpDuration": 2
+              },
+              {
+                "id": "0313ded8-86ca-4fa9-88cb-4920c2587b84",
+                "name": "Overview Camera",
+                "code": "overviewCamera",
+                "followNode": 3,
+                "followNodeOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "lookAtNode": 3,
+                "lookAtNodeOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "cameraLensFov": 40,
+                "cameraLensNearClipPlane": 0.01,
+                "cameraLensFarClipPlane": 250,
+                "yAxisControlValue": 0.5,
+                "yAxisControlSpeed": 0.75,
+                "yAxisControlSpeedModifier": 0,
+                "yAxisControlAccelTime": 0.2,
+                "yAxisControlDecelTime": 0.1,
+                "yAxisControlInputAxisName": "Mouse X",
+                "yAxisControlInputAxisValue": 0,
+                "yAxisControlInputAxisInvert": true,
+                "xAxisControlValue": 180,
+                "xAxisControlSpeed": 125,
+                "xAxisControlSpeedModifier": 0,
+                "xAxisControlAccelTime": 0.1,
+                "xAxisControlDecelTime": 0.1,
+                "xAxisControlInputAxisName": "Mouse Y",
+                "xAxisControlInputAxisValue": 0,
+                "xAxisControlInputAxisInvert": false,
+                "orbitSplineCurvature": 1,
+                "topRigHeight": 0.6,
+                "topRigRadius": 0.01,
+                "middleRigHeight": 0,
+                "middleRigRadius": 0.6,
+                "bottomRigHeight": -0.6,
+                "bottomRigRadius": 0.01,
+                "zoomSpeed": 0.1,
+                "zoomAccel": 0.75,
+                "zoomMinRadius": 0.4,
+                "zoomMaxRadius": 1.5,
+                "zoomLerpDuration": 2
+              }
+            ]
+          }
+        ],
+        "packSets": [
+          {
+            "id": "593fd3bc-0106-4b24-a1a0-812c3587894b",
+            "name": "Metal",
+            "code": "metal",
+            "packs": [
+              {
+                "id": "4fd61701-5006-422a-8883-c8a3f48a34c7",
+                "name": "Gold",
+                "code": "gold",
+                "variantAndSets": [
+                  {
+                    "variantSetId": "57956587-b088-406c-ba69-0165cbac9bfb",
+                    "variantId": "7c222f79-8523-4320-a4c2-07a7fd847502"
+                  },
+                  {
+                    "variantSetId": "9c9623d1-cfff-4cb6-bf02-82530b168abf",
+                    "variantId": "d7439051-eba4-4a16-9c6c-3dc08b2c64aa"
+                  }
+                ]
+              },
+              {
+                "id": "b4b4a7d4-6153-4112-b5b7-ac1d6e5bea84",
+                "name": "Silver",
+                "code": "silver",
+                "variantAndSets": [
+                  {
+                    "variantSetId": "57956587-b088-406c-ba69-0165cbac9bfb",
+                    "variantId": "8fc71478-6ca1-4085-843c-44c677f75683"
+                  },
+                  {
+                    "variantSetId": "9c9623d1-cfff-4cb6-bf02-82530b168abf",
+                    "variantId": "08728c9f-c8eb-47ab-89de-d8eefb658f37"
+                  }
+                ]
+              },
+              {
+                "id": "74dff9c4-293d-486b-8308-18929cc117b6",
+                "name": "None",
+                "code": "none",
+                "variantAndSets": []
+              }
+            ]
+          }
+        ]
+      },
+      "trims": [
+        {
+          "id": "59ce592f-d1b3-43a8-aba5-2ada2f31543c",
+          "name": "Default",
+          "code": "default",
+          "variantSets": [
+            {
+              "id": "434536c0-26de-4f6d-a6cf-6724304f177a",
+              "name": "Cameras",
+              "variantSetId": "434536c0-26de-4f6d-a6cf-6724304f177a",
+              "defaultVariantId": "0313ded8-86ca-4fa9-88cb-4920c2587b84",
+              "availableVariantIds": [
+                "0313ded8-86ca-4fa9-88cb-4920c2587b84",
+                "c248aaa7-e83f-40c1-b485-2dc12321f53e"
+              ]
+            },
+            {
+              "id": "57956587-b088-406c-ba69-0165cbac9bfb",
+              "name": "MainColor",
+              "variantSetId": "57956587-b088-406c-ba69-0165cbac9bfb",
+              "defaultVariantId": "7c222f79-8523-4320-a4c2-07a7fd847502",
+              "availableVariantIds": [
+                "7c222f79-8523-4320-a4c2-07a7fd847502",
+                "8fc71478-6ca1-4085-843c-44c677f75683"
+              ]
+            },
+            {
+              "id": "9c9623d1-cfff-4cb6-bf02-82530b168abf",
+              "name": "RingColor",
+              "variantSetId": "9c9623d1-cfff-4cb6-bf02-82530b168abf",
+              "defaultVariantId": "d7439051-eba4-4a16-9c6c-3dc08b2c64aa",
+              "availableVariantIds": [
+                "d7439051-eba4-4a16-9c6c-3dc08b2c64aa",
+                "08728c9f-c8eb-47ab-89de-d8eefb658f37"
+              ]
+            },
+            {
+              "id": "44cad13e-9585-4984-8b47-9e85fe1127dd",
+              "name": "StonesColor",
+              "variantSetId": "44cad13e-9585-4984-8b47-9e85fe1127dd",
+              "defaultVariantId": "73fd8352-fd95-414c-b2c4-987b9248225e",
+              "availableVariantIds": [
+                "73fd8352-fd95-414c-b2c4-987b9248225e",
+                "4fbe731b-28a0-46be-9851-56369162658d",
+                "5dfc197a-3b8a-424d-b79f-c335a66572aa"
+              ]
+            }
+          ],
+          "packSets": [
+            {
+              "id": "593fd3bc-0106-4b24-a1a0-812c3587894b",
+              "name": "Metal",
+              "packSetId": "593fd3bc-0106-4b24-a1a0-812c3587894b",
+              "defaultPackId": "4fd61701-5006-422a-8883-c8a3f48a34c7",
+              "availablePackIds": [
+                "4fd61701-5006-422a-8883-c8a3f48a34c7",
+                "b4b4a7d4-6153-4112-b5b7-ac1d6e5bea84",
+                "74dff9c4-293d-486b-8308-18929cc117b6"
+              ]
+            }
+          ]
+        }
+      ],
+      "externalNodes": [],
+      "infoData": {
+        "id": "ec2c4a19-91ea-4637-b837-1a6edee168de",
+        "modelId": "be5597dd-2335-4590-b10b-8f72fc6ebebf",
+        "localizedInfoData": [
+          {
+            "language": "en-US",
+            "displayInfos": [
+              {
+                "id": "1808ee6f-5817-4d5e-a90c-7e1cd4ef68e3",
+                "targetId": "be5597dd-2335-4590-b10b-8f72fc6ebebf",
+                "displayInfoContent": {
+                  "id": "3cc95a36-8606-475c-b100-68487f89f48b",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Earring 1",
+                  "description": "1st Earring.",
+                  "thumbnailId": "1808ee6f-5817-4d5e-a90c-7e1cd4ef68e3"
+                }
+              },
+              {
+                "id": "92c42832-121f-413a-91bb-87a972c03ed9",
+                "targetId": "593fd3bc-0106-4b24-a1a0-812c3587894b",
+                "displayInfoContent": {
+                  "id": "e329f4ae-3da0-48a5-92db-8e63d260ded3",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Metal",
+                  "description": "Base Metal.",
+                  "thumbnailId": "92c42832-121f-413a-91bb-87a972c03ed9"
+                }
+              },
+              {
+                "id": "54f35482-f450-40c9-9315-fb9dc5367710",
+                "targetId": "4fd61701-5006-422a-8883-c8a3f48a34c7",
+                "displayInfoContent": {
+                  "id": "48fa4666-8037-4764-b2c8-87f1a62c706d",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Gold",
+                  "description": "24 carat gold.",
+                  "thumbnailId": "54f35482-f450-40c9-9315-fb9dc5367710"
+                }
+              },
+              {
+                "id": "b007b9d8-a49a-4856-b214-0b86e4f66006",
+                "targetId": "b4b4a7d4-6153-4112-b5b7-ac1d6e5bea84",
+                "displayInfoContent": {
+                  "id": "4988a83c-fe6f-4e82-88ba-30b53dc6815c",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Silver",
+                  "description": "Sterling silver.",
+                  "thumbnailId": "b007b9d8-a49a-4856-b214-0b86e4f66006"
+                }
+              },
+              {
+                "id": "c5db7536-4866-46b3-bb48-732179a6604a",
+                "targetId": "74dff9c4-293d-486b-8308-18929cc117b6",
+                "displayInfoContent": {
+                  "id": "e94b6885-1bfc-4998-9617-edbeeb9b9a02",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Custom",
+                  "description": "Allows multi-metal construction.",
+                  "thumbnailId": "c5db7536-4866-46b3-bb48-732179a6604a"
+                }
+              },
+              {
+                "id": "37a23f45-a41f-4459-9bd5-a84b9f1df221",
+                "targetId": "44cad13e-9585-4984-8b47-9e85fe1127dd",
+                "displayInfoContent": {
+                  "id": "08ef0e23-98a1-4bcc-8b35-59c4bccad28c",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Gem",
+                  "description": "Select a gem.",
+                  "thumbnailId": "37a23f45-a41f-4459-9bd5-a84b9f1df221"
+                }
+              },
+              {
+                "id": "0417a243-cbf4-4c0e-8ecc-b1fcb661101d",
+                "targetId": "73fd8352-fd95-414c-b2c4-987b9248225e",
+                "displayInfoContent": {
+                  "id": "9f0f65ed-760b-4dad-b22f-f9c43d365e7f",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Diamond",
+                  "description": "Sparking-clear gem.",
+                  "thumbnailId": "37a23f45-a41f-4459-9bd5-a84b9f1df221"
+                }
+              },
+              {
+                "id": "f8a25dbc-7829-4050-bc77-c9f164be6cc8",
+                "targetId": "4fbe731b-28a0-46be-9851-56369162658d",
+                "displayInfoContent": {
+                  "id": "91066131-f36f-4bfb-9476-4ffac49da239",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Ruby",
+                  "description": "Red stone.",
+                  "thumbnailId": "f8a25dbc-7829-4050-bc77-c9f164be6cc8"
+                }
+              },
+              {
+                "id": "7c58628e-7214-484f-9fca-c532eb8c8d31",
+                "targetId": "5dfc197a-3b8a-424d-b79f-c335a66572aa",
+                "displayInfoContent": {
+                  "id": "cfb383a9-91be-4f92-b64a-46398b3d0ccd",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Sapphire",
+                  "description": "Blue stone.",
+                  "thumbnailId": "7c58628e-7214-484f-9fca-c532eb8c8d31"
+                }
+              },
+              {
+                "id": "c4dc5477-819e-401f-bb14-c283a9722b23",
+                "targetId": "434536c0-26de-4f6d-a6cf-6724304f177a",
+                "displayInfoContent": {
+                  "id": "3a636945-4a15-4d6e-b72e-c09d819f9a2d",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Camera",
+                  "description": "Select a camera.",
+                  "thumbnailId": "c4dc5477-819e-401f-bb14-c283a9722b23"
+                }
+              },
+              {
+                "id": "20d42562-ae57-4549-bb85-0f24e98e7543",
+                "targetId": "0313ded8-86ca-4fa9-88cb-4920c2587b84",
+                "displayInfoContent": {
+                  "id": "fdc85ad6-d74a-4d56-8862-c45d312b332d",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Overview Camera",
+                  "description": "View Earring.",
+                  "thumbnailId": "20d42562-ae57-4549-bb85-0f24e98e7543"
+                }
+              },
+              {
+                "id": "8a582ffa-95f8-4c1e-8e72-0f07840449d8",
+                "targetId": "c248aaa7-e83f-40c1-b485-2dc12321f53e",
+                "displayInfoContent": {
+                  "id": "9ca0f934-c1b6-4af3-adf9-8647d3c5959a",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Detail Camera",
+                  "description": "View Earring's primary gem.",
+                  "thumbnailId": "8a582ffa-95f8-4c1e-8e72-0f07840449d8"
+                }
+              },
+              {
+                "id": "332ec0aa-3f31-4395-906a-7d0d7998c708",
+                "targetId": "57956587-b088-406c-ba69-0165cbac9bfb",
+                "displayInfoContent": {
+                  "id": "94c507f3-8624-443a-908d-2b27b60d300d",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Main Material",
+                  "description": "Base Metal of the main body.",
+                  "thumbnailId": "332ec0aa-3f31-4395-906a-7d0d7998c708"
+                }
+              },
+              {
+                "id": "c33e09c1-131a-4854-8d48-93201f0e0e8d",
+                "targetId": "7c222f79-8523-4320-a4c2-07a7fd847502",
+                "displayInfoContent": {
+                  "id": "1cc1ef4e-5395-4026-9efe-c9b6210ca117",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Gold",
+                  "description": "24 Carat Gold",
+                  "thumbnailId": "c33e09c1-131a-4854-8d48-93201f0e0e8d"
+                }
+              },
+              {
+                "id": "1dca9bae-5abb-4ee4-bf97-610c24479ffe",
+                "targetId": "8fc71478-6ca1-4085-843c-44c677f75683",
+                "displayInfoContent": {
+                  "id": "bdbf6818-6004-45ad-a2e7-46960079ad51",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Silver",
+                  "description": "Sterling Silver",
+                  "thumbnailId": "1dca9bae-5abb-4ee4-bf97-610c24479ffe"
+                }
+              },
+              {
+                "id": "10601df3-05b0-4ad4-93ea-22aab6a5c09f",
+                "targetId": "9c9623d1-cfff-4cb6-bf02-82530b168abf",
+                "displayInfoContent": {
+                  "id": "c6a6b4a4-cb25-47e6-8fad-2b57d8f705d4",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Ring Material",
+                  "description": "Base Metal of the ring.",
+                  "thumbnailId": "332ec0aa-3f31-4395-906a-7d0d7998c708"
+                }
+              },
+              {
+                "id": "df4698fb-87d3-4e04-a289-0eb2a5566dd5",
+                "targetId": "d7439051-eba4-4a16-9c6c-3dc08b2c64aa",
+                "displayInfoContent": {
+                  "id": "d6a860ec-00e8-4fee-a602-3cb48ba05c28",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Gold",
+                  "description": "24 Carat Gold",
+                  "thumbnailId": "c33e09c1-131a-4854-8d48-93201f0e0e8d"
+                }
+              },
+              {
+                "id": "217b2cce-279f-4f1c-bc78-348e7b29ca09",
+                "targetId": "08728c9f-c8eb-47ab-89de-d8eefb658f37",
+                "displayInfoContent": {
+                  "id": "37122945-015c-4409-bd87-8d4e1fd458ec",
+                  "isReadOnly": false,
+                  "visibilityStatus": 0,
+                  "name": "Silver",
+                  "description": "Sterling Silver",
+                  "thumbnailId": "1dca9bae-5abb-4ee4-bf97-610c24479ffe"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "thumbnails": [
+        {
+          "id": "1808ee6f-5817-4d5e-a90c-7e1cd4ef68e3",
+          "code": "",
+          "image": 2
+        },
+        {
+          "id": "92c42832-121f-413a-91bb-87a972c03ed9",
+          "code": "",
+          "image": 3
+        },
+        {
+          "id": "54f35482-f450-40c9-9315-fb9dc5367710",
+          "code": "",
+          "image": 4
+        },
+        {
+          "id": "b007b9d8-a49a-4856-b214-0b86e4f66006",
+          "code": "",
+          "image": 5
+        },
+        {
+          "id": "c5db7536-4866-46b3-bb48-732179a6604a",
+          "code": "",
+          "image": 6
+        },
+        {
+          "id": "37a23f45-a41f-4459-9bd5-a84b9f1df221",
+          "code": "",
+          "image": 7
+        },
+        {
+          "id": "f8a25dbc-7829-4050-bc77-c9f164be6cc8",
+          "code": "",
+          "image": 8
+        },
+        {
+          "id": "7c58628e-7214-484f-9fca-c532eb8c8d31",
+          "code": "",
+          "image": 9
+        },
+        {
+          "id": "c4dc5477-819e-401f-bb14-c283a9722b23",
+          "code": "",
+          "image": 10
+        },
+        {
+          "id": "20d42562-ae57-4549-bb85-0f24e98e7543",
+          "code": "",
+          "image": 11
+        },
+        {
+          "id": "8a582ffa-95f8-4c1e-8e72-0f07840449d8",
+          "code": "",
+          "image": 12
+        },
+        {
+          "id": "332ec0aa-3f31-4395-906a-7d0d7998c708",
+          "code": "",
+          "image": 13
+        },
+        {
+          "id": "c33e09c1-131a-4854-8d48-93201f0e0e8d",
+          "code": "",
+          "image": 14
+        },
+        {
+          "id": "1dca9bae-5abb-4ee4-bf97-610c24479ffe",
+          "code": "",
+          "image": 15
+        }
+      ]
+    }
+  },
+  "extensionsUsed": [
+    "UNITY_Configurator"
+  ],
+  "cameras": [
+    {
+      "type": "perspective",
+      "perspective": {
+        "aspectRatio": 1.599689,
+        "yfov": 0.6981317,
+        "zfar": 5000,
+        "znear": 0.1
+      }
+    }
+  ]
+}
